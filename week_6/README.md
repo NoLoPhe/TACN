@@ -11,10 +11,10 @@
 	- Tác giả có nêu ra một số giải pháp để hạn chế tình trạng trì hoãn, đó là gì?
 - Bài đọc 3 (W1-Reading3)
 	- Chủ đề chính của bài đọc là gì?
-	- Tác giả cho rằng trạng thái trì hoãn của chúng ta đang ở mức đỉnh điểm, điều gì gây ratrạng thái này?
+	- Tác giả cho rằng trạng thái trì hoãn của chúng ta đang ở mức đỉnh điểm, điều gì gây ra trạng thái này?
 	- Làm việc tại nhà đóng vai trò gì trong việc gây ra trì hoãn?
 	- Trạng thái trì hoãn cực điểm có thể gây ra các tác hại gì?
-	- CEO của Speechify có nêu ra một cách để cảm thấy tốt hơn khi tình trạng trì hoãn xảyra, đó là gì?
+	- CEO của Speechify có nêu ra một cách để cảm thấy tốt hơn khi tình trạng trì hoãn xảy ra, đó là gì?
 	- Tác giả cũng nêu ra một số giải pháp để hạn chế tình trạng trì hoãn, đó là gì?
 - Bài đọc 4 (W1-Reading4)
 	- Bài đọc gồm bao nhiêu phần? Ý chính của mỗi phần là gì?
