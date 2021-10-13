@@ -114,22 +114,42 @@
 ## Answer the Quesion
 
 1. From this article only, what do you know about Feynman, the inventor of the method?
+Chỉ từ bài viết này, bạn biết gì về Feynman, người phát minh ra phương pháp?
+	- Devised by a Nobel Prize-winning physicist
+	- Được phát triển bởi một nhà vật lý đoạt giải Nobel
+	
 2. How many main steps does the technique involve?
+Kỹ thuật bao gồm bao nhiêu bước chính?
+	1. Pretend to teach a concept you want to learn about to a student in the sixth grade.
+	2. Identify gaps in your explanation. Go back to the source material to better understand it.
+	3. Organize and simplify.
+	4. Transmit (optional).
+	1. Giả vờ dạy một khái niệm mà bạn muốn tìm hiểu về một học sinh lớp sáu.
+	2. Xác định những khoảng trống trong lời giải thích của bạn. Quay lại nguồn tài liệu để hiểu rõ hơn.
+	3. Tổ chức và đơn giản hóa.
+	4. Truyền (tùy chọn).
+	
 3. Look at Step 1, in line 2 of paragraph 3 of this step, what does the word “jargon” mean? Show some words in your major that are considered as jargon.
+Nhìn vào Bước 1, trong dòng 2 của đoạn 3 của bước này, từ “biệt ngữ” có nghĩa là gì? Hiển thị một số từ trong chuyên ngành của bạn được coi là biệt ngữ.
+	- Biệt ngữ là chỉ dùng trong một nhóm người cụ thể, chỉ nhóm người đó hiểu với nhau, người ngoài không hiểu.
+	- Debug -> 
+	
 4. In Step 2, what is the “gap” in the explanation?
+Ở Bước 2, “khoảng trống” trong lời giải thích là gì?
+	- Lỗ hổng là mờ mịt
+	
 5. What will you do in Step 3?
-6. “Step 4 is optional, but it is quite important”. Do you agree with this claim? From your point of view, please show your opinion and explain why you agree or do not agree
+Bạn sẽ làm gì trong Bước 3?
 
-1. Chỉ từ bài viết này, bạn biết gì về Feynman, người phát minh ra phương pháp?
-2. Kỹ thuật bao gồm bao nhiêu bước chính?
-3. Nhìn vào Bước 1, trong dòng 2 của đoạn 3 của bước này, từ “biệt ngữ” có nghĩa là gì? Hiển thị một số từ trong chuyên ngành của bạn được coi là biệt ngữ.
-4. Ở Bước 2, “khoảng trống” trong lời giải thích là gì?
-5. Bạn sẽ làm gì trong Bước 3?
-6. “Bước 4 là tùy chọn, nhưng nó khá quan trọng”. Bạn có đồng ý với tuyên bố này không? Từ quan điểm của bạn, hãy trình bày ý kiến ​​của bạn và giải thích lý do tại sao bạn đồng ý hoặc không đồng ý
+6. “Step 4 is optional, but it is quite important”. Do you agree with this claim? From your point of view, please show your opinion and explain why you agree or do not agree
+“Bước 4 là tùy chọn, nhưng nó khá quan trọng”. Bạn có đồng ý với tuyên bố này không? Từ quan điểm của bạn, hãy trình bày ý kiến ​​của bạn và giải thích lý do tại sao bạn đồng ý hoặc không đồng ý
+	- Kiến thức mà giữ la kiến thức giữ cho riêng, kiến thức mà mình truyền đạt nhận được sự góp ý người ngoài xem có đúng không
 
 ## Translate
 
 - If you’re after a way to supercharge your learning and become smarter, the Feynman Technique might just be the best way to learn absolutely anything. Devised by a Nobel Prize-winning physicist, it leverages the power of teaching for better learning.
+- Nếu bạn đang tìm kiếm một cách để thúc đẩy quá trình học tập của mình và trở nên thông minh hơn, thì Kỹ thuật Feynman có thể là cách tốt nhất để học hoàn toàn mọi thứ. Được phát triển bởi một nhà vật lý đoạt giải Nobel, nó thúc đẩy sức mạnh của việc giảng dạy để học tập tốt hơn.
+
 - The Feynman Learning Technique is a simple way of approaching anything new you want to learn. Why use it? Because learning doesn’t happen from skimming through a book or remembering enough to pass a test. Information is learned when you can explain it and use it in a wide variety of situations. The Feynman Technique gets more mileage from the ideas you encounter instead of rendering anything new into isolated, useless factoids.
 - When you really learn something, you give yourself a tool to use for the rest of your life. The more you know, the fewer surprises you will encounter, because most new things will connect to something you already understand. 
 - Ultimately, the point of learning is to understand the world. But most of us don’t bother to deliberately learn anything. We memorize what we need to as we move through school, then forget most of it. As we continue through life, we don’t extrapolate from our experiences to broaden the applicability of our knowledge. Consequently, life kicks us in the ass time and again.
@@ -167,7 +187,7 @@
 - Feynman’s approach intuitively believes that intelligence is a process of growth, which dovetails nicely with the work of Carol Dweck, who describes the difference between a fixed and growth mindset.
 - “If you can’t reduce a difficult engineering problem to just one 81 2 × 11-inch sheet of paper, you will probably never understand it.” — Ralph Peck
 
-- Nếu bạn đang tìm kiếm một cách để thúc đẩy quá trình học tập của mình và trở nên thông minh hơn, thì Kỹ thuật Feynman có thể là cách tốt nhất để học hoàn toàn mọi thứ. Được phát triển bởi một nhà vật lý đoạt giải Nobel, nó thúc đẩy sức mạnh của việc giảng dạy để học tập tốt hơn.
+
 - Kỹ thuật học Feynman là một cách đơn giản để tiếp cận bất cứ điều gì mới mà bạn muốn học. Tại sao sử dụng nó? Bởi vì việc học không xảy ra khi đọc lướt qua một cuốn sách hoặc ghi nhớ đủ để vượt qua một bài kiểm tra. Thông tin được học khi bạn có thể giải thích nó và sử dụng nó trong nhiều tình huống khác nhau. Kỹ thuật Feynman thu được nhiều lợi ích hơn từ những ý tưởng bạn gặp phải thay vì biến bất cứ điều gì mới thành những dữ kiện cô lập, vô dụng.
 - Khi bạn thực sự học được điều gì đó, bạn có cho mình một công cụ để sử dụng trong suốt quãng đời còn lại. Bạn càng biết nhiều, bạn càng gặp ít bất ngờ hơn, bởi vì hầu hết những điều mới mẻ sẽ kết nối với những gì bạn đã hiểu.
 - Cuối cùng, quan điểm của việc học là để hiểu thế giới. Nhưng hầu hết chúng ta không bận tâm đến việc cố ý học bất cứ điều gì. Chúng ta ghi nhớ những gì chúng ta cần khi chuyển qua trường học, sau đó quên hầu hết chúng. Khi chúng ta tiếp tục trong suốt cuộc đời, chúng ta không ngoại suy từ kinh nghiệm của mình để mở rộng khả năng ứng dụng kiến ​​thức của chúng ta. Kết quả là, cuộc sống ném chúng ta vào mông hết lần này đến lần khác.
@@ -196,7 +216,7 @@
 ## Bước 3. Tổ chức và đơn giản hóa
 - Bây giờ bạn có một tập hợp các ghi chú thủ công có chứa một lời giải thích đơn giản. Sắp xếp chúng thành một câu chuyện mà bạn có thể kể từ đầu đến cuối. Đọc nó thành tiếng. Nếu phần giải thích có vẻ khó hiểu ở bất kỳ điểm nào, hãy quay lại Bước 2. Tiếp tục lặp lại cho đến khi bạn có một câu chuyện mà bạn có thể kể cho bất kỳ ai sẽ nghe.
 - Nếu bạn làm theo phương pháp này lặp đi lặp lại, bạn sẽ kết thúc với một tập tài liệu đầy đủ các trang về các chủ đề khác nhau. Nếu bạn dành thời gian hai lần một năm để xem qua chất kết dính này, bạn sẽ thấy mình còn giữ lại được bao nhiêu.
-## Bước 4: Truyền (tùy chọn)
+## Bước 4: Truyền đạt (tùy chọn)
 - Phần này là tùy chọn, nhưng nó là kết quả hợp lý của mọi thứ bạn vừa làm. Nếu bạn thực sự muốn chắc chắn về sự hiểu biết của mình, hãy chạy nó qua một người nào đó (lý tưởng nhất là một người biết ít về chủ đề này). Bài kiểm tra cuối cùng về kiến ​​thức của bạn là khả năng của bạn để truyền đạt nó cho người khác. Bạn có thể đọc trực tiếp những gì bạn đã viết. Bạn có thể trình bày tài liệu như một bài giảng. Bạn có thể hỏi bạn bè của mình trong một vài phút thời gian của họ trong khi bạn đang mua bữa tối cho họ. Bạn có thể tình nguyện làm diễn giả trong lớp học của con bạn hoặc nơi ở của cha mẹ bạn về hưu. Tất cả những gì thực sự quan trọng là bạn cố gắng truyền tải tài liệu cho ít nhất một người không quen thuộc với nó.
 - Những câu hỏi bạn nhận được và phản hồi bạn nhận được là vô giá để phát triển thêm sự hiểu biết của bạn. Nghe những gì khán giả của bạn tò mò có thể sẽ khơi gợi sự tò mò của chính bạn và đặt bạn trên con đường học hỏi thêm. Rốt cuộc, chỉ khi bạn bắt đầu học một vài điều thực sự tốt, bạn mới đánh giá cao những điều cần biết.
 -------------------------------------------------- ---------------------------
