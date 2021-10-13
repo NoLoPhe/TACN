@@ -152,3 +152,25 @@
 - DT có thể được coi là một ứng dụng tập trung của CPS.\n
 - Một mặt, DT kế thừa các đặc điểm của CPS như lập bản đồ vật lý không gian mạng và điều khiển vòng kín để làm cho thế giới vật lý và không gian mạng tương tác và tích hợp.\n
 - Ở phía bên kia, các yếu tố của DT có thể được kết hợp với khung CPS để hỗ trợ mô phỏng độ trung thực cao, tổng hợp dữ liệu và kêu gọi dịch vụ, do đó cung cấp cho CPS phân tích dữ liệu và ra quyết định hiệu quả hơn.
+
+# Siemens-Digitalization
+
+- Ứng dụng vận hành ảo
+- Doanh nghiệp số: Sản phẩm ảo - Quy trình sản xuất ảo - Quy trình sản xuất thật - Sản phẩm thực
+
+- 1. Tổng quan
+- Giải quyết thách thức lớn trong quá trình kiểm tra, chạy thử
+- Đẩy nhanh quá trình kiểm tra chạy thử
+- Giảm rủi ro và chi phí
+- Tránh các tình huống chưa thể lường trước
+- Xác định lỗi cơ khí và phần mềm
+
+- Digital Twin
+- Bản sao sô của máy móc
+- không cần mô hình mẫu thực tế
+- xác định lỗi từ rất sớm
+- tiết kiệm thời gian & chi phí
+- thiết kế và lập trình máy từ bất kỳ nơi đâu
+- kiểm thử, tối ưu hóa máy móc hoặc hướng dẫn vận hành trên môi trường ảo
+
+
