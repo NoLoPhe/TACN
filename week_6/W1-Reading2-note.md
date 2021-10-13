@@ -5,6 +5,23 @@
   - Các tác hại của dạng trì hoãn này đối chủ thể?
   - Tác giả có nêu ra một số giải pháp để hạn chế tình trạng trì hoãn, đó là gì?
 
+Chronic procrastination: Dạng trì hoãn mãn tính
+
+- Dạng trì hoãn đặt biệt: Chronic procrastination Dạng trì hoãn mãn tính, kinh niên, có hại, ảnh hưởng đến mối quen hệ, chất lượng công việc, cuộc sống.
+- Con người cám thấy lo lắng ngăn cản họ bắt đầu làm việc, tuy nhiên dữ liệu họ nghiên cứu, ít sự lo lắng, bất đồng thấp(sốc nổi thấp) thì sự lo lắng là động lực để bắt đầu. Mặc khác người bất đồng cao thì họ sẽ dừng khi cảm thấy lo lắng. Khó biểu đạt cảm xúc nặng và khó khăn trong việc thể thoát khỏi sự tồi tệ này
+- có khoản thời gian khó khăn để đối phó
+- Nghiên cứu, không liên kết với chủ nghĩa hoàn hảo và nó liên quan đến sự bất đồng 
+- sự bất đồng, muốn làm điều đó hoàn hảo hơn
+- sức khỏe tinh thần, vỏ bọc, đột lột để hài lòng người khác
+
+- Biện pháp hạn chế dạng trì hoãn
+- Chia nhỏ dự án thành các mục tiêu dài hạn (cụ thể)
+- Nêu chính xác thời gian bắt đầu và việc đó diễn ra bao lâu, lưu ý không phải ngày mai
+- Khi bắt đầu không cần thiết phải viết ra một kế hoạch dài, nhiệm vụ có bước chi tiết để sau
+- làm việc đó ngay bây giờ có lợi ích cho tương lai
+- Thực hiện một nỗ lực nhỏ để trì hoãn vào những việc dễ trì hoãn. thêm micro-scope, tạo tài khoản mới, tài khoản đó chỉ chứ game, đăng xuất và đăng nhập lại, tạo công việc ngăn cách sự trì hoãn, chi phí nhỏ tốn thời gian.
+
+
 - To Stop Procrastinating, Start by Understanding the Emotions Involved
 
 - Để ngừng chần chừ, hãy bắt đầu bằng cách hiểu những cảm xúc liên quan
