@@ -12,6 +12,16 @@
 - Ưu và nhược điểm của mỗi phương pháp đọc?
 - Tác giả có kết luận gì về các phương pháp đọc?
 
+# Answer the questions
+
+- Đọc theo thời gian là cho một khoản thời gian để đọc -> tăng khả năng đọc hiểu -> phát triển 
+- Vấn đề không đánh giá khả năng đọc áp lục tấp trung
+- Hạn chế khả năng khám phá, mất, không nhớ từ chính
+- Thường trong các cuộc thi toeic tiếng Anh đầu ra
+- Thường kết hợp với phường phá đọc lướt, đọc thầm, đọc chung để cùng ôn tập
+- Silent Reading, Scanning or Skimming Sections of Text, Share reading
+- Share reading không thể đọc khi thi
+
 - Findings
 
 - Kết quả
