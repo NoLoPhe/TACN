@@ -54,6 +54,8 @@
 - Ví dụ bao gồm giả sử một giáo sư viết về một khái niệm liên quan đến Hóa học và được xuất bản trên tạp chí hàng tháng của trường đại học
 
 - Difference between Technical Writing and Academic Writing
+- Sự khác biệt giữa Viết kỹ thuật và Viết học thuật
+
 - Technical Writing:
 1. Technical writing focuses on providing detailed and lucid information about the product or service.
 2. Technical writing contains factual and straight forward content.
@@ -65,7 +67,6 @@
 8. Technical writing follows subject specific vocabulary.
 9. Own or personal point views are not included
 
-- Sự khác biệt giữa Viết kỹ thuật và Viết học thuật
 - Văn bản kỹ thuật:
 1. Kỹ thuật viết tập trung vào việc cung cấp thông tin chi tiết và rõ ràng về sản phẩm hoặc dịch vụ.
 2. Văn bản kỹ thuật chứa nội dung thực tế và rõ ràng.
