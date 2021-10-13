@@ -13,25 +13,25 @@
 
 # Answer the Quesion
 
-- 1. Who did invent the Pomodoro technique?
-- 1. Ai đã phát minh ra kỹ thuật Pomodoro?
+- Who did invent the Pomodoro technique?
+- Ai đã phát minh ra kỹ thuật Pomodoro?
 	- Italian Francesco Cirillo
 
-- 2. Where can you apply the Pomodoro technique?
-- 2. Bạn có thể áp dụng kỹ thuật Pomodoro ở đâu?
--	 Every where (The technique is popular) perhaps because it’s portable (and easy to learn)
--	 Mọi nơi (Kỹ thuật này phổ biến) có lẽ vì nó dễ di chuyển (và dễ học)
+- Where can you apply the Pomodoro technique?
+- Bạn có thể áp dụng kỹ thuật Pomodoro ở đâu?
+	- Every where (The technique is popular) perhaps because it’s portable (and easy to learn)
+	- Mọi nơi (Kỹ thuật này phổ biến) có lẽ vì nó dễ di chuyển (và dễ học)
 
-- 3. What items do you need to start applying Pomodoro technique?
-- 3. Bạn cần những vật phẩm nào (cái/thứ gì) để bắt đầu áp dụng kỹ thuật Pomodoro?
+- What items do you need to start applying Pomodoro technique?
+- Bạn cần những vật phẩm nào (cái/thứ gì) để bắt đầu áp dụng kỹ thuật Pomodoro?
 	- A clock 
 	- Set a timer for 25-30 minutes
 	- and a notebook
 	- Record each session with a tick or X
 	- timer, pen, and notepad
 
-- 4. What is a Pomodoro session?
-- 4. (một) Phiên Pomodoro là gì?
+- What is a Pomodoro session?
+- (một) Phiên Pomodoro là gì?
 	- a period of time about 25 - 30 minutes spending to get a little work or get a block of focused work. The work is divided into many blocks that is relative to many sessions.
 	- A 25-minute Pomodoro session is long enough to get a little work done.
 	- Unlike trying to work without a break for hours, it’sn relatively easy to stack small sessions on top of each other.
@@ -39,8 +39,8 @@
 	- Một phiên Pomodoro kéo dài 25 phút là đủ dài để hoàn thành một công việc nhỏ.
 	- Không giống như cố gắng làm việc không nghỉ trong nhiều giờ, việc xếp các phiên nhỏ chồng lên nhau tương đối dễ dàng.
 
-- 5. What are the benefits of Pomodoro technique?
-- 5. Lợi ích của kỹ thuật Pomodoro là gì?
+- What are the benefits of Pomodoro technique?
+- Lợi ích của kỹ thuật Pomodoro là gì?
 	- focus  (more focused).
 	- sets a tone whereby you feel more focused and productive.
 	- This technique can help anyone who feels distracted or overwhelmed to focus on what matters.
