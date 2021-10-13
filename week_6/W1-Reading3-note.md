@@ -1,3 +1,11 @@
+- Trì hoãn do đại dịch Covide 19 
+- Làm việc tại nhà tại sao gây trì hoãn
+  - Môi trường, có sếp, thúc đẩy công việc
+  - Bị phân tâm bởi trẻ em, hàng xóm, thú cừng
+- Trì hoãn quá múc gây ra tác hại gì?
+  - Mệt mỏi, chán nãm, sa suốt tinh thần, lo lắng về tài chính, tình hình thế giới, không biết thế giới
+  - Trầm cảm, khó chữa
+
 Productivity Tips for Procrastinators
 
 Mẹo năng suất dành cho người trì hoãn
